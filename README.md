@@ -2,5 +2,5 @@
 
 
 1. 자료구조 & 알고리즘 (백준)
-2. 노마드 코더_React.JS/Node.JS (모던 JS deep dive)
+2. React.JS Node.JS (모던 JS deep dive)
 
