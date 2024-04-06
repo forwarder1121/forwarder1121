@@ -6,3 +6,5 @@
 
 [2024.03.28]
 AI 공부 - 밑바닥부터 시작하는 딥러닝 -> CS231n
+
+![image](https://github.com/forwarder1121/forwarder1121/assets/66872094/4ca6645d-44bb-4a39-b007-3ef569d397b3)
