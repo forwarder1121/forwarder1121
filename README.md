@@ -1,4 +1,4 @@
-Stack : C, C++, JS (Node, React), Python(DJango), Java, R
+Stack : C, C++, JS (Node, React), Python(DJango), Java, R    
 DB : MongoDB, MySql
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forwarder1121)](https://solved.ac/forwarder1121/)
