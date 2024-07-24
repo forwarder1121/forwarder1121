@@ -1,13 +1,23 @@
-Stack : C, C++, JS (Node, React), Python(DJango), Java, R    
-DB : MongoDB, MySql
+## Tech Stack
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forwarder1121)](https://solved.ac/forwarder1121/)
+- **Languages:** C, C++, JavaScript (Node.js, React), Python (Django), Java, R
+- **Databases:** MongoDB, MySQL
 
+## Data Structures & Algorithms
 
-1. 자료구조 & 알고리즘 (백준)
-2. React.JS Node.JS (모던 JS deep dive)
+- Active problem-solving on **Baekjoon**
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forwarder1121)](https://solved.ac/forwarder1121/)
 
-[2024.03.28]
-AI 공부 - 밑바닥부터 시작하는 딥러닝 -> CS231n
+## Current Learning Path
 
-![image](https://github.com/forwarder1121/forwarder1121/assets/66872094/4ca6645d-44bb-4a39-b007-3ef569d397b3)
+1. **Data Structures & Algorithms** (Baekjoon)
+2. **React.JS & Node.JS** (In-depth study of Modern JavaScript)
+
+### AI Studies
+
+- **Start Date:** March 28, 2024
+- **Resources:** "Deep Learning from Scratch" -> CS231n
+
+![AI Study Image](https://github.com/forwarder1121/forwarder1121/assets/66872094/4ca6645d-44bb-4a39-b007-3ef569d397b3)
+
+---
