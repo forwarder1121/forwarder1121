@@ -21,3 +21,5 @@
 ![AI Study Image](https://github.com/forwarder1121/forwarder1121/assets/66872094/4ca6645d-44bb-4a39-b007-3ef569d397b3)
 
 ---
+
+<img width="796" alt="image" src="https://github.com/user-attachments/assets/746a53a9-8b5b-484a-8182-ec6378828e4a">
