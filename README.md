@@ -26,4 +26,4 @@
 
 <img width="963" alt="image" src="https://github.com/user-attachments/assets/2e9e2579-f905-42ba-a0f5-33a5f306bbe3">
 
-[Link : BE]https://d2.naver.com/news/3435170
+[Link : BE](https://d2.naver.com/news/3435170)
