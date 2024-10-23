@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8ab0eaf0-ba28-41a1-9116-e5253669dc0d)
+
 ## Tech Stack
 
 - **Languages:** C, C++, JavaScript (Node.js, React), Python (Django), Java, R
