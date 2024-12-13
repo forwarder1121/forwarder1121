@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/8ab0eaf0-ba28-41a1-9116-e5253669dc0d)
+<img width="131" alt="image" src="https://github.com/user-attachments/assets/ecc0424f-b0ae-4dd5-a1a9-f0e67b686e1e" />
+
 
 ## Tech Stack
 
