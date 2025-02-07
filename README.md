@@ -1,21 +1,18 @@
-Below is an updated GitHub README in Markdown that includes a separate **Awards & Achievements** section:
 
----
-
-# Portfolio
 
 ## Awards & Achievements
 
-### MADUV Challenge 2025 – 3rd Place with 2D-Siwn
+### MADUV Challenge 2025 – 3rd Place
+
 **Overview:**  
-The MADUV Challenge 2025 invited participants to develop models to classify mice as either wild-type or ASD models based on high-frequency ultrasound vocalizations. Our solution employed a **2D-Siwn-based feature extraction** method combined with a Swin Transformer to effectively process and classify the audio data.
+The MADUV Challenge 2025 called for models to classify mice as either wild-type or ASD models based on high-frequency ultrasound vocalizations. In this challenge, state-of-the-art speech and signal processing techniques were employed to analyze complex audio data.
 
 **My Contribution:**  
-- Developed a 2D-Siwn-based approach for robust feature extraction from ultrasound data.  
-- Fine-tuned the final classification threshold for optimal performance.  
-- Achieved **3rd Place** in the challenge.
+- **Swin Transformer Implementation:** Leveraged a Swin Transformer model to perform robust image classification on mel-spectrogram representations of the ultrasound data.
+- **Mel-Spectrogram Conversion Pipeline:** Developed an end-to-end pipeline to convert raw ultrasound vocalizations into mel-spectrograms, enabling effective feature extraction and model training.
+- **Achievement:** Secured **3rd Place** in the challenge.
 
-For more details, visit the [MADUV Challenge website](https://www.maduv.org/).
+For more information, visit the [MADUV Challenge website](https://www.maduv.org/).
 
 ---
 
@@ -64,7 +61,3 @@ For more details, visit the [MADUV Challenge website](https://www.maduv.org/).
 <img width="963" alt="Image 2" src="https://github.com/user-attachments/assets/2e9e2579-f905-42ba-a0f5-33a5f306bbe3">
 
 [Read More (BE)](https://d2.naver.com/news/3435170)
-
----
-
-Feel free to customize the sections further as needed for your portfolio.
