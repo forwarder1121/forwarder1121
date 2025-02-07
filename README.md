@@ -10,9 +10,6 @@ The MADUV Challenge 2025 called for models to classify mice as either wild-type 
 - Fine-tuned the final classification threshold for optimal performance.  
 - Achieved **3rd place** in the challenge.
 
-**Repository Contents:**  
-- Training and inference code for the Swin Transformer model.  
-- Scripts for threshold optimization and result generation.
 
 For more information, visit the [MADUV Challenge website](https://www.maduv.org/).
 
