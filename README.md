@@ -10,7 +10,6 @@ The MADUV Challenge 2025 called for models to classify mice as either wild-type 
 **My Contribution:**  
 - **Swin Transformer Implementation:** Leveraged a Swin Transformer model to perform robust image classification on mel-spectrogram representations of the ultrasound data.
 - **Mel-Spectrogram Conversion Pipeline:** Developed an end-to-end pipeline to convert raw ultrasound vocalizations into mel-spectrograms, enabling effective feature extraction and model training.
-- **Achievement:** Secured **3rd Place** in the challenge.
 
 For more information, visit the [MADUV Challenge website](https://www.maduv.org/).
 
