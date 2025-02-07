@@ -2,7 +2,7 @@
 
 ### MADUV Challenge 2025 – 3rd Place  
 **Overview:**  
-The MADUV Challenge 2025 invited researchers to develop models that classify mice as either wild-type or ASD models based on high-frequency ultrasound vocalizations. Advanced signal processing techniques were used to handle complex audio data.
+The **MADUV Challenge 2025** was part of **INTERSPEECH 2025**, inviting researchers worldwide to develop models that classify mice as either wild-type or ASD models based on high-frequency ultrasound vocalizations. Advanced signal processing techniques were used to handle complex audio data in this globally recognized event.
 
 **My Contribution:**  
 - **Swin Transformer Implementation:** Applied a Swin Transformer for effective classification on mel-spectrogram representations of the ultrasound data.  
@@ -10,6 +10,7 @@ The MADUV Challenge 2025 invited researchers to develop models that classify mic
 - **Achievement:** Secured **3rd Place** in the challenge.
 
 For more details, visit the [MADUV Challenge website](https://www.maduv.org/) or see the [MADUV Challenge 2025 documentation](document/MADUV%20Challenge%202025.md).
+
 
 ---
 
