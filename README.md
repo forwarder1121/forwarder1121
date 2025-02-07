@@ -1,5 +1,24 @@
 
 
+# MADUV Challenge 2025 – 3rd Place with 2D-Siwn
+
+**Overview:**  
+The MADUV Challenge 2025 called for models to classify mice as either wild-type or ASD models based on high-frequency ultrasound vocalizations. Our solution used a 2D-Siwn-based feature extraction method combined with a Swin Transformer to effectively process and classify the audio data.
+
+**My Contribution:**  
+- Developed a 2D-Siwn-based approach for extracting robust features from ultrasound data.  
+- Fine-tuned the final classification threshold for optimal performance.  
+- Achieved **3rd place** in the challenge.
+
+**Repository Contents:**  
+- Training and inference code for the Swin Transformer model.  
+- Scripts for threshold optimization and result generation.
+
+For more information, visit the [MADUV Challenge website](https://www.maduv.org/).
+
+
+---
+
 ## Tech Stack
 
 - **Languages:** C, C++, JavaScript (Node.js, React), Python (Django), Java, R
