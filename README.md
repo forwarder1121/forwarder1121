@@ -1,7 +1,3 @@
-Below is the updated README section in Markdown with the added information that the Konkuk University Statistics Competition was held in November 2024:
-
----
-
 ## Awards & Achievements
 
 ### MADUV Challenge 2025 – 3rd Place  
@@ -13,7 +9,7 @@ The MADUV Challenge 2025 invited researchers to develop models that classify mic
 - **Mel-Spectrogram Conversion Pipeline:** Developed an end-to-end pipeline to convert raw ultrasound vocalizations into mel-spectrograms for robust feature extraction.  
 - **Achievement:** Secured **3rd Place** in the challenge.
 
-For more details, visit the [MADUV Challenge website](https://www.maduv.org/).
+For more details, visit the [MADUV Challenge website](https://www.maduv.org/) or see the [MADUV Challenge 2025 documentation](document/MADUV%20Challenge%202025.md).
 
 ---
 
@@ -23,6 +19,8 @@ Participated in a Statistics Competition organized by the Department of Statisti
 
 **Achievement:**  
 - Awarded **3rd Place** for outstanding performance in statistical analysis and problem-solving.
+
+[View Competition PDF](document/Statistics%20Competition.pdf)
 
 ---
 
@@ -71,7 +69,3 @@ Participated in a Statistics Competition organized by the Department of Statisti
 <img width="963" alt="Image 2" src="https://github.com/user-attachments/assets/2e9e2579-f905-42ba-a0f5-33a5f306bbe3">
 
 [Read More (BE)](https://d2.naver.com/news/3435170)
-
----
-
-Feel free to adjust or expand any sections as needed.
