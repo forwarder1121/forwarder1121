@@ -1,17 +1,28 @@
+Below is the updated README section in Markdown with the added information that the Konkuk University Statistics Competition was held in November 2024:
 
+---
 
 ## Awards & Achievements
 
-### MADUV Challenge 2025 – 3rd Place
-
+### MADUV Challenge 2025 – 3rd Place  
 **Overview:**  
-The MADUV Challenge 2025 called for models to classify mice as either wild-type or ASD models based on high-frequency ultrasound vocalizations. In this challenge, state-of-the-art speech and signal processing techniques were employed to analyze complex audio data.
+The MADUV Challenge 2025 invited researchers to develop models that classify mice as either wild-type or ASD models based on high-frequency ultrasound vocalizations. Advanced signal processing techniques were used to handle complex audio data.
 
 **My Contribution:**  
-- **Swin Transformer Implementation:** Leveraged a Swin Transformer model to perform robust image classification on mel-spectrogram representations of the ultrasound data.
-- **Mel-Spectrogram Conversion Pipeline:** Developed an end-to-end pipeline to convert raw ultrasound vocalizations into mel-spectrograms, enabling effective feature extraction and model training.
+- **Swin Transformer Implementation:** Applied a Swin Transformer for effective classification on mel-spectrogram representations of the ultrasound data.  
+- **Mel-Spectrogram Conversion Pipeline:** Developed an end-to-end pipeline to convert raw ultrasound vocalizations into mel-spectrograms for robust feature extraction.  
+- **Achievement:** Secured **3rd Place** in the challenge.
 
-For more information, visit the [MADUV Challenge website](https://www.maduv.org/).
+For more details, visit the [MADUV Challenge website](https://www.maduv.org/).
+
+---
+
+### Konkuk University Statistics Competition – 3rd Place (November 2024)  
+**Overview:**  
+Participated in a Statistics Competition organized by the Department of Statistics at Konkuk University in November 2024.
+
+**Achievement:**  
+- Awarded **3rd Place** for outstanding performance in statistical analysis and problem-solving.
 
 ---
 
@@ -60,3 +71,7 @@ For more information, visit the [MADUV Challenge website](https://www.maduv.org/
 <img width="963" alt="Image 2" src="https://github.com/user-attachments/assets/2e9e2579-f905-42ba-a0f5-33a5f306bbe3">
 
 [Read More (BE)](https://d2.naver.com/news/3435170)
+
+---
+
+Feel free to adjust or expand any sections as needed.
