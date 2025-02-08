@@ -5,11 +5,12 @@
 The **MADUV Challenge 2025** was part of **INTERSPEECH 2025**, inviting researchers worldwide to develop models that classify mice as either wild-type or ASD models based on high-frequency ultrasound vocalizations. Advanced signal processing techniques were used to handle complex audio data in this globally recognized event.
 
 **My Contribution:**  
-- **Swin Transformer Implementation:** Applied a Swin Transformer for effective classification on mel-spectrogram representations of the ultrasound data.  
+- **Swin Transformer Implementation:** Explored multiple Swin Transformer variants by reviewing recent research papers, implementing the approaches, and conducting thorough experiments.  
 - **Mel-Spectrogram Conversion Pipeline:** Developed an end-to-end pipeline to convert raw ultrasound vocalizations into mel-spectrograms for robust feature extraction.  
 - **Achievement:** Secured **3rd Place** in the challenge.
 
 For more details, visit the [MADUV Challenge website](https://www.maduv.org/) or see the [MADUV Challenge 2025 documentation](document/MADUV%20Challenge%202025.md).
+
 
 
 ---
