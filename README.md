@@ -9,18 +9,15 @@ The **MADUV Challenge 2025** was part of **INTERSPEECH 2025**, inviting research
 - **Mel-Spectrogram Conversion Pipeline:** Developed an end-to-end pipeline to convert raw ultrasound vocalizations into mel-spectrograms for robust feature extraction.  
 - **Achievement:** Secured **3rd Place** in the challenge.
 
-For more details, visit the [MADUV Challenge website](https://www.maduv.org/) or see the [MADUV Challenge 2025 documentation](document/MADUV%20Challenge%202025.md).
+For more details, visit the [MADUV Challenge website](https://www.maduv.org/)
 
 
 
 ---
 
 ### Konkuk University Statistics Competition – 3rd Place (November 2024)  
-**Overview:**  
-Participated in a Statistics Competition organized by the Department of Statistics at Konkuk University in November 2024.
 
-**Achievement:**  
-- Awarded **3rd Place** for outstanding performance in statistical analysis and problem-solving.
+Participated in a Statistics Competition organized by the Department of Statistics at Konkuk University in November 2024.
 
 [View Competition PDF](document/Statistics%20Competition.pdf)
 
