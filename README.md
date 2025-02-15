@@ -7,7 +7,7 @@ The **MADUV Challenge 2025** was part of **INTERSPEECH 2025**, inviting research
 **My Contribution:**  
 - **Swin Transformer Implementation:** Explored multiple Swin Transformer variants by reviewing recent research papers, implementing the approaches, and conducting thorough experiments.  
 - **Mel-Spectrogram Conversion Pipeline:** Developed an end-to-end pipeline to convert raw ultrasound vocalizations into mel-spectrograms for robust feature extraction.  
-- **Achievement:** Secured **3rd Place** in the challenge.
+
 
 For more details, visit the [MADUV Challenge website](https://www.maduv.org/)
 
