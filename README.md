@@ -68,3 +68,5 @@ Participated in a Statistics Competition organized by the Department of Statisti
 <img width="963" alt="Image 2" src="https://github.com/user-attachments/assets/2e9e2579-f905-42ba-a0f5-33a5f306bbe3">
 
 [Read More (BE)](https://d2.naver.com/news/3435170)
+
+![Image](https://github.com/user-attachments/assets/8bc7241f-a70a-4839-aa97-66c3b16d4bb9)
