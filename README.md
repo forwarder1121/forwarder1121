@@ -42,7 +42,7 @@ An end-to-end voice-based chat application that captures speech, transcribes it 
 
 📄 [View EmoChat Project Summary PDF](https://github.com/forwarder1121/forwarder1121/blob/main/document/EmoChat.pdf)
 
-
+---
 
 ### SER-Chatbot – Speech-Emotion & Stress Web Chatbot
 
