@@ -27,7 +27,7 @@ Participated in a Statistics Competition organized by the Department of Statisti
 
 ## 🧠 AI Projects 
 
-### EmoChat – Real-time Emotion & Stress Voice Chat App : Personal Project
+### EmoChat – Real-time Emotion & Stress Voice Chat App ( Personal Project : FE + Baas + AI research + deploy )
 
 **Overview:**
 An end-to-end voice-based chat application that captures speech, transcribes it using OpenAI Whisper, predicts emotional stress levels via Hugging Face audio model, and reflects the result in real-time chat UI (e.g., warning modal, balloon color shift).
