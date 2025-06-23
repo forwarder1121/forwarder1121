@@ -25,7 +25,7 @@ Participated in a Statistics Competition organized by the Department of Statisti
 
 ---
 
-## 🧠 AI Projects 
+## Projects 
 
 ### EmoChat – Real-time Emotion & Stress Voice Chat App ( Personal Project : FE + Baas + AI research + deploy )
 
@@ -41,6 +41,34 @@ An end-to-end voice-based chat application that captures speech, transcribes it 
 * 🎯 Final deployment with attention to UX (alert modals, message color change)
 
 📄 [View EmoChat Project Summary PDF](https://github.com/forwarder1121/forwarder1121/blob/main/document/EmoChat.pdf)
+
+
+
+### SER-Chatbot – Speech-Emotion & Stress Web Chatbot
+
+*(Personal Project · FE + BE + AI Research + DevOps · **Journal/Conference paper under preparation**)*
+
+**Overview**
+Browser-based chatbot that listens to the user’s voice, transcribes it (Whisper), estimates **emotion** (7-class) and **stress level** (2-class StudentNet), then generates a persona-aware GPT-4 reply—everything rendered live in Streamlit with dynamic badges, gauges, and RAG-augmented context.
+
+**Highlights**
+
+| 영역                     | 핵심 포인트                                                                                                             |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 🖥 **Frontend**        | Streamlit + Tailwind-style CSS · Mic/WebRTC · custom badges & stress gauge                                         |
+| 🧠 **AI Stack**        | Whisper STT · DistilRoBERTa emotion clf · **StudentNet stress clf** (self-trained, knowledge-distilled, F1 +17 pp) |
+| 🗄 **Context/RAG**     | GPT-4 + Pinecone Vector DB → persona-specific, context-aware replies                                               |
+| 🧰 **Backend**         | Python 3.10, modular **ChatbotService** (LLM · emotion · stress · RAG)                                             |
+| 🚀 **DevOps**          | Docker image < 60 MB → **Streamlit Cloud** cold-start < 4 s · CI/CD via GitHub Actions                             |
+| 🔍 **UX Tweaks**       | “**Input hash + explicit re-render**” pattern → fixes Streamlit duplicate-message bug                              |
+| 📑 **Research Output** | Results drafted for submission to *Korea Institute of Information Technology 2024* (domestic conference)           |
+
+> **Links**
+> • Demo Slides (MiriCanvas): [https://www.miricanvas.com/v/14sl4ew](https://www.miricanvas.com/v/14sl4ew)
+> • GitHub Repo: [https://github.com/forwarder1121/SER-CHATBOT-PROJECT](https://github.com/forwarder1121/SER-CHATBOT-PROJECT)
+
+
+
 
 ---
 
