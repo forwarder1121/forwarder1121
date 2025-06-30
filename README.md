@@ -38,7 +38,7 @@ An end-to-end voice-based chat application that captures speech, transcribes it 
 * 🧠 **AI integration**: Whisper STT + Hugging Face Inference API
 * 🗂 **Realtime BaaS**: Firebase Authentication, Firestore, Cloud Storage
 * 📊 Integrated lightweight **voice-only stress recognition model** via knowledge distillation
-* 🎯 Final deployment with attention to UX (alert modals, message color change)
+
 
 📄 [View EmoChat Project Summary PDF](https://github.com/forwarder1121/forwarder1121/blob/main/document/EmoChat.pdf)
 
@@ -59,9 +59,7 @@ Browser-based chatbot that listens to the user’s voice, transcribes it (Whispe
 | 🧠 **AI Stack**        | Whisper STT · DistilRoBERTa emotion clf · **StudentNet stress clf** (self-trained, knowledge-distilled, F1 +17 pp) |
 | 🗄 **Context/RAG**     | GPT-4 + Pinecone Vector DB → persona-specific, context-aware replies                                               |
 | 🧰 **Backend**         | Python 3.10, modular **ChatbotService** (LLM · emotion · stress · RAG)                                             |
-| 🚀 **DevOps**          | Docker image < 60 MB → **Streamlit Cloud** cold-start < 4 s · CI/CD via GitHub Actions                             |
-| 🔍 **UX Tweaks**       | “**Input hash + explicit re-render**” pattern → fixes Streamlit duplicate-message bug                              |
-| 📑 **Research Output** | Results drafted for submission to *Korea Institute of Information Technology 2024* (domestic conference)           |
+| 📑 **Research Output** | 예정           |
 
 > **Links**
 > • Demo Slides (MiriCanvas): [https://www.miricanvas.com/v/14sl4ew](https://www.miricanvas.com/v/14sl4ew)
