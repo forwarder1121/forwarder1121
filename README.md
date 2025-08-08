@@ -1,7 +1,7 @@
 <img width="984" height="403" alt="Image" src="https://github.com/user-attachments/assets/81ba79ef-0d6e-436b-9131-65616728fab1" />
 # 재작성중입니다. - 경험 정리중
 
-현재 Spring + PS 준비중 => 앱 개발중
+현재 Spring + PS 준비중 => 앱 개발중 + 자격증 취득 중
  
 ## 🏆 Awards & Achievements
 
