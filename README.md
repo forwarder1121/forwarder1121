@@ -2,6 +2,7 @@
 # 재작성중입니다. - 경험 정리중
 
 현재 Spring + PS 준비중 => 앱 개발중 + 자격증 취득 중
+[PS](https://github.com/forwarder1121/Problem_Solving)
  
 ## 🏆 Awards & Achievements
 
