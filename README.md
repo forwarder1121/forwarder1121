@@ -18,6 +18,9 @@
 어학
 - TOEIC ( 취득 예정 )
 
+논문
+- 학회 제출 예정 (학회 찾는중)
+
  
 ## 🏆 Awards & Achievements
 
