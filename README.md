@@ -30,7 +30,6 @@
 
 대외 활동
 - 보이노시스 인턴 ( ML Enginner )
-- Kuggle 부회장
 
  
 ## 🏆 Awards & Achievements
