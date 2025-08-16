@@ -4,6 +4,8 @@
 현재 Spring + PS 준비중 => 앱 개발중 + 자격증 취득 중   
 [PS 공부 레포지토리](https://github.com/forwarder1121/Problem_Solving)
 
+학위
+컴퓨터공학부 본전공, 응용통계학 다전공
 
 자격증
 - 정보처리기사 ( 필기 합격, 실기 취득 예정 )
