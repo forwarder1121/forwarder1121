@@ -1,8 +1,18 @@
 <img width="984" height="403" alt="Image" src="https://github.com/user-attachments/assets/81ba79ef-0d6e-436b-9131-65616728fab1" />
 # 재작성중입니다. - 경험 정리중
 
-현재 Spring + PS 준비중 => 앱 개발중 + 자격증 취득 중
+현재 Spring + PS 준비중 => 앱 개발중 + 자격증 취득 중   
 [PS](https://github.com/forwarder1121/Problem_Solving)
+
+
+자격증
+- 정보처리기사 ( 필기 합격, 실기 취득 예정)
+- ASDP
+- SQLD ( 취득 예정 )
+
+어학
+- TOEIC ( 취득 예정 )
+
  
 ## 🏆 Awards & Achievements
 
