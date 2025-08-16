@@ -32,10 +32,7 @@
 - 보이노시스 인턴 ( ML Enginner )
 - 학부연구생 (AI vision)
 
-Soft Skill
-- 사람을 안다는 것
-- 모든 관계는 말투에서 시작된다
- 
+
 ## 🏆 Awards & Achievements
 
 ### MADUV Challenge 2025 – 3rd Place
