@@ -30,7 +30,7 @@
 
 대외 활동
 - 보이노시스 인턴 ( ML Enginner )
-
+- 학부연구생 (AI vision)
  
 ## 🏆 Awards & Achievements
 
