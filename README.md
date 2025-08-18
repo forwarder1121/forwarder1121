@@ -32,6 +32,8 @@
 - 보이노시스 인턴 ( ML Enginner )
 - 학부연구생 (AI vision)
 
+기타
+- President’s List [2025학년도 1학기] (한학기 성적 4.5)
 
 ## 🏆 Awards & Achievements
 
