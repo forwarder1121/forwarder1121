@@ -2,7 +2,10 @@
 # 재작성중입니다. - 경험 정리중
 
 현재 Spring + PS 준비중 => 앱 개발중 + 자격증 취득 중   
-[PS 공부 레포지토리](https://github.com/forwarder1121/Problem_Solving)  
+
+📚 Study Repositories  
+- 🧮 [Problem Solving](https://github.com/forwarder1121/Problem_Solving)  
+- 🎓 [Computer Science](https://github.com/forwarder1121/Computer_Science)  
 
 
 학위   
