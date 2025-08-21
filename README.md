@@ -4,8 +4,8 @@
 현재 Spring + PS 준비중 => 앱 개발중 + 자격증 취득 중   
 
 📚 Study Repositories  
-- 🧮 [Problem Solving](https://github.com/forwarder1121/Problem_Solving)  
-- 🎓 [Computer Science](https://github.com/forwarder1121/Computer_Science)  
+- [Problem Solving](https://github.com/forwarder1121/Problem_Solving)  
+- [Computer Science](https://github.com/forwarder1121/Computer_Science)  
 
 
 학위   
