@@ -3,14 +3,16 @@
 하지만 저는 기술의 화려함보다 기본의 가치를 믿습니다.  
 진정한 개발자의 역량은 결국 컴퓨터 공학(CS)의 탄탄한 기초에서 나온다고 생각하기에, 다시 한번 CS부터 체계적으로 다지고 있습니다.
 
+📚 Study Repositories  
+- [Problem Solving](https://github.com/forwarder1121/Problem_Solving)  
+- [Computer Science](https://github.com/forwarder1121/Computer_Science)  
+
 <img width="984" height="403" alt="Image" src="https://github.com/user-attachments/assets/81ba79ef-0d6e-436b-9131-65616728fab1" />
 # 재작성중입니다. - 경험 정리중
 
 현재 Spring + PS 준비중 => 앱 개발중 + 자격증 취득 중   
 
-📚 Study Repositories  
-- [Problem Solving](https://github.com/forwarder1121/Problem_Solving)  
-- [Computer Science](https://github.com/forwarder1121/Computer_Science)  
+
 
 
 학위   
