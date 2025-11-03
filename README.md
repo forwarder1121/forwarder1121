@@ -6,7 +6,7 @@ AI의 발전으로 무엇이든 빠르게 만들어내는 시대가 되었습니
 📚 Study Repositories  
 - [Problem Solving](https://github.com/forwarder1121/Problem_Solving)  
 - [Computer Science](https://github.com/forwarder1121/Computer_Science)  
-- [스포츠심리학](http://www.kocw.net/home/m/enrolment/enrolmentView.do?cid=0aeb44a314c103d7&lid=3dcd5fbf013f4c07)
+- [Human & Leadership Studies](https://github.com/forwarder1121/Human-Leadership-Studies)  
 
 <img width="984" height="403" alt="Image" src="https://github.com/user-attachments/assets/81ba79ef-0d6e-436b-9131-65616728fab1" />
 # 재작성중입니다. - 경험 정리중
