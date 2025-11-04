@@ -8,12 +8,6 @@ AI의 발전으로 무엇이든 빠르게 만들어내는 시대가 되었습니
 - [Computer Science](https://github.com/forwarder1121/Computer_Science)  
 - [Human & Leadership Studies](https://github.com/forwarder1121/Human-Leadership-Studies)  
 
-<img width="984" height="403" alt="Image" src="https://github.com/user-attachments/assets/81ba79ef-0d6e-436b-9131-65616728fab1" />
-# 재작성중입니다. - 경험 정리중
-
-현재 Spring + PS 준비중 => 앱 개발중 + 자격증,토익 점수 취득 중   
-
-
 
 
 학위   
