@@ -152,12 +152,7 @@ Browser-based chatbot that listens to the user’s voice, transcribes it (Whispe
 ---
 
 ## 🎨 Additional Visuals
-
-<img width="796" alt="Image 1" src="https://github.com/user-attachments/assets/746a53a9-8b5b-484a-8182-ec6378828e4a">
-<img width="963" alt="Image 2" src="https://github.com/user-attachments/assets/2e9e2579-f905-42ba-a0f5-33a5f306bbe3">
-
 [Read More (BE)](https://d2.naver.com/news/3435170)
 
-![Image](https://github.com/user-attachments/assets/8bc7241f-a70a-4839-aa97-66c3b16d4bb9)
 
 ---
