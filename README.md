@@ -99,7 +99,7 @@ Browser-based chatbot that listens to the user’s voice, transcribes it (Whispe
 | 🧠 **AI Stack**        | Whisper STT · DistilRoBERTa emotion clf · **StudentNet stress clf** (self-trained, knowledge-distilled, F1 +17 pp) |
 | 🗄 **Context/RAG**     | GPT-4 + Pinecone Vector DB → persona-specific, context-aware replies                                               |
 | 🧰 **Backend**         | Python 3.10, modular **ChatbotService** (LLM · emotion · stress · RAG)                                             |
-| 📑 **Research Output** | 예정           |
+| 📑 **Research Output** | 한국정보과학회(KCI) 심사 중           |
 
 > **Links**
 > • Demo Slides (MiriCanvas): [https://www.miricanvas.com/v/14sl4ew](https://www.miricanvas.com/v/14sl4ew)
