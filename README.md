@@ -151,7 +151,7 @@ Browser-based chatbot that listens to the user’s voice, transcribes it (Whispe
 
 ---
 
-## 🎨 Additional Visuals
+
 [Read More (BE)](https://d2.naver.com/news/3435170)
 
 
