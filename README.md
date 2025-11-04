@@ -64,7 +64,7 @@ AI의 발전으로 무엇이든 빠르게 만들어내는 시대가 되었습니
 
 ## 💼 Experience
 
-- **보이노시스 (ML Engineer Intern)** — 멀티모달 스트레스 인식 모델 연구  
+- **보이노시스 (ML Engineer Intern)** — 멀티모달 스트레스 인식 모델 연구, Whisper 기반 STT 프로젝트 진행
 - **건국대학교 학부연구생 (AI Vision Lab)** — 오디오/비전 기반 감정·스트레스 분류 연구  
 
 ---
@@ -132,12 +132,5 @@ AI의 발전으로 무엇이든 빠르게 만들어내는 시대가 되었습니
 
 ---
 
-## 🌿 Beyond Technology
-
-기술은 문제를 해결하지만, **사람은 방향을 만듭니다.**  
-개발자로서의 성장을 넘어 **리더십·심리·조직 이해력**을 기르기 위해  
-[Human & Leadership Studies](https://github.com/forwarder1121/Human-Leadership-Studies)를 운영하며 인문학적 사고를 병행하고 있습니다.
-
----
 
 📎 [Read More (Naver D2: Backend Insight)](https://d2.naver.com/news/3435170)
