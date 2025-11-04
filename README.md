@@ -50,7 +50,7 @@ AI의 발전으로 무엇이든 빠르게 만들어내는 시대가 되었습니
 | [**MADUV Challenge 2025 – 3rd Place**](https://www.maduv.org/) | INTERSPEECH 2025 | 국제대회 |
 | [**데이터분석 경진대회 – 3위**](document/Statistics%20Competition.pdf) | 건국대학교 통계학과 | |
 | [**드림학기제 우수상 (단독)**](https://github.com/forwarder1121/forwarder1121/blob/main/document/EmoChat.pdf) | 건국대학교 | 프로젝트: *EmoChat* |
-| [**창업경진대회 최우수상**](https://github.com/forwarder1121/Human-Leadership-Studies) | 건국대학교 | 아이디어: *리더십·심리 기반 창업 프로젝트* |
+| 창업경진대회 최우수상 | 건국대학교 | 설문조사 대행 플랫폼|
 
 
 🔗 [MADUV Challenge Official Site](https://www.maduv.org/)
