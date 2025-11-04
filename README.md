@@ -111,8 +111,7 @@ AI의 발전으로 무엇이든 빠르게 만들어내는 시대가 되었습니
 
 ## 📐 Algorithm & CS Study
 
-- 꾸준히 **Baekjoon Online Judge** 문제 풀이 중  
-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forwarder1121)](https://solved.ac/forwarder1121/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forwarder1121)](https://solved.ac/forwarder1121/)
 
 ---
 
