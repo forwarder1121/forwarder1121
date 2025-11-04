@@ -1,158 +1,144 @@
+# 👋 About Me
 
 AI의 발전으로 무엇이든 빠르게 만들어내는 시대가 되었습니다.  
-하지만 저는 기술의 화려함보다 기본의 가치를 믿습니다.  
-진정한 개발자의 역량은 결국 컴퓨터 공학(CS)의 탄탄한 기초에서 나온다고 생각하기에, CS부터 다시 다지고 있습니다.
+하지만 저는 기술의 화려함보다 **기본의 가치**를 믿습니다.  
+진정한 개발자의 역량은 **컴퓨터공학(CS)의 탄탄한 기초**에서 비롯된다고 생각하기에,  
+지금도 꾸준히 학습하고 기록하며 성장하고 있습니다.
 
-📚 Study Repositories  
-- [Problem Solving](https://github.com/forwarder1121/Problem_Solving)  
-- [Computer Science](https://github.com/forwarder1121/Computer_Science)  
-- [Human & Leadership Studies](https://github.com/forwarder1121/Human-Leadership-Studies)  
+---
 
+## 📚 Study Repositories
 
+| 분야 | Repository | 내용 |
+|------|-------------|------|
+| 🧩 알고리즘 | [Problem Solving](https://github.com/forwarder1121/Problem_Solving) | Baekjoon 중심 알고리즘/자료구조 문제풀이 |
+| 💻 컴퓨터공학 | [Computer Science](https://github.com/forwarder1121/Computer_Science) | 운영체제 · 네트워크 · DB · SW 공학 정리 |
+| 🌿 리더십/인문학 | [Human & Leadership Studies](https://github.com/forwarder1121/Human-Leadership-Studies) | 심리·리더십·조직 이해력 학습 아카이브 |
 
-학위   
-- 컴퓨터공학 원전공, 통계학 복수전공
-- 전체 학점 (4.13/4.50)    
+---
 
-자격증
-- 정보처리기사 ( 필기 합격, 실기 취득 예정 )
-- 정보처리기능사 - 2021.05.07 - 한국산업인력공단
-- ADSP - 2025.09.05 - 한국데이터산업진흥원
-- SQLD - 2025.09.19 - 한국데이터산업진흥원
-- AWS 관련 취득 예정 (SAA)
+## 🎓 Academic Background
 
-어학
-- TOEIC 820 - 2025.10.18
-- TOEIC Speaking 취득 예정
+- **학위:** 컴퓨터공학 전공 · 통계학 복수전공  
+- **학점:** 4.13 / 4.50  
+- **기타:** [2025학년도 1학기 President’s List](https://www.konkuk.ac.kr/) (성적 4.5 / 19학점)
 
-논문
-- 학회 제출 예정 (논문 작성 완료 / 학회 찾는중)
+---
 
-수상 실적
-- MADUV Challenge 2025 – 3rd Place (국제대회)
-- 건국대학교 통계학과 데이터 분석 3위 수상
-- 건국대학교 드림학기제 우수상 수상 (단독)
-- 건국대학교 창업 경진대회 최우수상 수상
+## 📜 Certifications
 
-대외 활동
-- 보이노시스 인턴 ( ML Enginner )
-- 학부연구생 (AI vision)
+- 정보처리기사 *(필기 합격, 실기 예정)*  
+- 정보처리기능사 — 2021.05.07 (한국산업인력공단)  
+- ADSP — 2025.09.05 (한국데이터산업진흥원)  
+- SQLD — 2025.09.19 (한국데이터산업진흥원)  
+- AWS SAA *(예정)*  
 
-기타
-- [2025학년도 1학기] President’s List  (한학기 성적 4.5 - 19학점)
+---
+
+## 🌏 Language Proficiency
+
+- TOEIC **820점** (2025.10.18)  
+- TOEIC Speaking *(예정)*  
+
+---
+
+## 🧠 Research & Publications
+
+- 오디오 기반 스트레스 인식 모델 연구  
+- 논문 작성 완료 *(학회 제출 예정, 학회 검토 중)*  
+
+---
 
 ## 🏆 Awards & Achievements
 
-### MADUV Challenge 2025 – 3rd Place
+| 수상명 | 주최 | 비고 |
+|--------|------|------|
+| **MADUV Challenge 2025 – 3rd Place** | INTERSPEECH 2025 | 국제대회 |
+| **데이터분석 경진대회 – 3위** | 건국대학교 통계학과 | |
+| **드림학기제 우수상 (단독)** | 건국대학교 | |
+| **창업경진대회 최우수상** | 건국대학교 | |
 
-**Overview:**
-The **MADUV Challenge 2025** was part of **INTERSPEECH 2025**, inviting researchers worldwide to develop models that classify mice as either wild-type or ASD models based on high-frequency ultrasound vocalizations. Advanced signal processing techniques were used to handle complex audio data in this globally recognized event.
-
-**My Contribution:**
-
-* **Swin Transformer Implementation:** Explored multiple Swin Transformer variants by reviewing recent research papers, implementing the approaches, and conducting thorough experiments.
-* **Mel-Spectrogram Conversion Pipeline:** Developed an end-to-end pipeline to convert raw ultrasound vocalizations into mel-spectrograms for robust feature extraction.
-
-🔗 [MADUV Challenge website](https://www.maduv.org/)
+🔗 [MADUV Challenge Official Site](https://www.maduv.org/)
 
 ---
 
-### Konkuk University Statistics Competition – 3rd Place (Nov 2024)
+## 💼 Experience
 
-Participated in a Statistics Competition organized by the Department of Statistics at Konkuk University.
-
-📄 [View Competition PDF](document/Statistics%20Competition.pdf)
-
----
-
-## Projects 
-
-### EmoChat – Real-time Emotion & Stress Voice Chat App ( Personal Project : FE + Baas + AI research + deploy )
-
-**Overview:**
-An end-to-end voice-based chat application that captures speech, transcribes it using OpenAI Whisper, predicts emotional stress levels via Hugging Face audio model, and reflects the result in real-time chat UI (e.g., warning modal, balloon color shift).
-
-**Highlights:**
-
-* 📱 **Built with React Native (Expo)**, customized GiftedChat UI
-* 🧠 **AI integration**: Whisper STT + Hugging Face Inference API
-* 🗂 **Realtime BaaS**: Firebase Authentication, Firestore, Cloud Storage
-* 📊 Integrated lightweight **voice-only stress recognition model** via knowledge distillation
-
-
-📄 [View EmoChat Project Summary PDF](https://github.com/forwarder1121/forwarder1121/blob/main/document/EmoChat.pdf)
+- **보이노시스 (ML Engineer Intern)** — 멀티모달 스트레스 인식 모델 연구  
+- **건국대학교 학부연구생 (AI Vision Lab)** — 오디오/비전 기반 감정·스트레스 분류 연구  
 
 ---
 
-### SER-Chatbot – Speech-Emotion & Stress Web Chatbot
+## 🚀 Projects
 
-*(Personal Project · FE + BE + AI Research + DevOps · **Journal/Conference paper under preparation**)*
-
-**Overview**
-Browser-based chatbot that listens to the user’s voice, transcribes it (Whisper), estimates **emotion** (7-class) and **stress level** (2-class StudentNet), then generates a persona-aware GPT-4 reply—everything rendered live in Streamlit with dynamic badges, gauges, and RAG-augmented context.
+### 🎙️ EmoChat – Real-time Emotion & Stress Voice Chat App
+> Whisper + Hugging Face 기반 실시간 감정·스트레스 예측 채팅 앱
 
 **Highlights**
+- 📱 React Native (Expo) + GiftedChat UI  
+- 🧠 Whisper STT + Hugging Face Inference API  
+- 🗂 Firebase Authentication · Firestore · Cloud Storage  
+- 📊 경량화된 음성 스트레스 모델 (Knowledge Distillation)  
 
-| 영역                     | 핵심 포인트                                                                                                             |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 🖥 **Frontend**        | Streamlit + Tailwind-style CSS · Mic/WebRTC · custom badges & stress gauge                                         |
-| 🧠 **AI Stack**        | Whisper STT · DistilRoBERTa emotion clf · **StudentNet stress clf** (self-trained, knowledge-distilled, F1 +17 pp) |
-| 🗄 **Context/RAG**     | GPT-4 + Pinecone Vector DB → persona-specific, context-aware replies                                               |
-| 🧰 **Backend**         | Python 3.10, modular **ChatbotService** (LLM · emotion · stress · RAG)                                             |
-| 📑 **Research Output** | 한국정보과학회(KCI) 심사 중           |
+📄 [Project Summary PDF](https://github.com/forwarder1121/forwarder1121/blob/main/document/EmoChat.pdf)
 
-> **Links**
-> • Demo Slides (MiriCanvas): [https://www.miricanvas.com/v/14sl4ew](https://www.miricanvas.com/v/14sl4ew)
-> • GitHub Repo: [https://github.com/forwarder1121/SER-CHATBOT-PROJECT](https://github.com/forwarder1121/SER-CHATBOT-PROJECT)
+---
 
+### 🤖 SER-Chatbot – Speech Emotion & Stress Web Chatbot
+> 음성 감정(7-class) + 스트레스(2-class) 인식 및 GPT-4 응답 생성
 
+**Highlights**
+- 🧠 Whisper STT · DistilRoBERTa · **StudentNet** (F1 +17pp 향상)  
+- 🗄 GPT-4 + Pinecone Vector DB 기반 **RAG Context**  
+- 🖥 Streamlit Frontend (실시간 뱃지/게이지 UI)  
+- 📑 **한국정보과학회(KCI)** 논문 심사 중  
 
+🔗 [GitHub Repo](https://github.com/forwarder1121/SER-CHATBOT-PROJECT)  
+🔗 [Demo Slides](https://www.miricanvas.com/v/14sl4ew)
 
 ---
 
 ## 🧰 Tech Stack
 
-* **Languages:**
-
-  * C, C++
-  * JavaScript (Node.js, React)
-  * Python (Django)
-  * Java, R
-
-* **Databases:**
-
-  * MongoDB, MySQL
+| 분야 | 기술 |
+|------|------|
+| **Languages** | C, C++, Python, JavaScript (React, Node.js), Java, R |
+| **Databases** | MySQL, MongoDB |
+| **Frameworks / Tools** | Django, Firebase, Streamlit, Docker, Git |
+| **ML / AI** | PyTorch, Hugging Face, TensorFlow Lite |
 
 ---
 
-## 📐 Data Structures & Algorithms
+## 📐 Algorithm & CS Study
 
-* Actively solving problems on **Baekjoon Online Judge**
-* [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forwarder1121)](https://solved.ac/forwarder1121/)
+- 꾸준히 **Baekjoon Online Judge** 문제 풀이 중  
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forwarder1121)](https://solved.ac/forwarder1121/)
 
 ---
 
-## 📚 Current Learning Path
+## 📚 Learning Path
 
-1. **Data Structures & Algorithms** (Baekjoon)
-2. **React.JS & Node.JS** – In-depth study of modern JavaScript frameworks
+1. **Data Structures & Algorithms** – Baekjoon 2회독 목표  
+2. **React.js & Node.js** – 웹 애플리케이션 아키텍처 심화 학습  
+3. **AI Engineering** – 음성 기반 감정/스트레스 모델 최적화 연구  
 
 ---
 
 ## 🤖 AI Studies
 
-* **Start Date:** March 28, 2024
-* **Resources:**
-
-  * *Deep Learning from Scratch*
-  * CS231n
+- 시작일: **2024.03.28 ~ 진행 중**  
+- 참고 자료: *Deep Learning from Scratch*, *CS231n*  
 
 ![AI Study Image](https://github.com/forwarder1121/forwarder1121/assets/66872094/4ca6645d-44bb-4a39-b007-3ef569d397b3)
 
 ---
 
+## 🌿 Beyond Technology
 
-[Read More (BE)](https://d2.naver.com/news/3435170)
-
+기술은 문제를 해결하지만, **사람은 방향을 만듭니다.**  
+개발자로서의 성장을 넘어 **리더십·심리·조직 이해력**을 기르기 위해  
+[Human & Leadership Studies](https://github.com/forwarder1121/Human-Leadership-Studies)를 운영하며 인문학적 사고를 병행하고 있습니다.
 
 ---
+
+📎 [Read More (Naver D2: Backend Insight)](https://d2.naver.com/news/3435170)
