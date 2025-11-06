@@ -37,7 +37,7 @@ AI로 무엇이든 빠르게 만들 수 있는 시대입니다.
 
 ## 🌏 Language Proficiency
 
-- TOEIC 820 (2025.10.18)  
+- TOEIC 820 — 2025.10.18
 - TOEIC Speaking *(예정)*  
 
 
