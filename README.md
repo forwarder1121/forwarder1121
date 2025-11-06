@@ -57,9 +57,6 @@ AI로 무엇이든 빠르게 만들 수 있는 시대입니다.
 | 창업경진대회 최우수상 | 건국대학교 | 설문조사 대행 플랫폼|
 
 
-🔗 [MADUV Challenge Official Site](https://www.maduv.org/)
-
-
 ## 💼 Experience
 
 - **보이노시스 (ML Engineer Intern)** — 멀티모달 스트레스 인식 모델 연구, Whisper 기반 STT 프로젝트 진행
