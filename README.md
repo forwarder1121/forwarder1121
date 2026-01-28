@@ -23,9 +23,8 @@ AI로 무엇이든 빠르게 만들 수 있는 시대입니다.
 
 ## ✍️ Coding Test Preparation (Ongoing)
 
-- 기업 코딩 테스트 대비 문제 풀이 및 복기 기록 ( AI 0%!! , 전부 수 작업)
-📒 **Notion 정리 노트**  
-👉 [Coding Test Study Notes (Notion)](https://innate-marquis-2aa.notion.site/2eeeec205f4e80968242cb34179786cf?source=copy_link)
+- 기업 코딩 테스트 대비 문제 풀이 및 복기 기록 ( AI 0%!! 전부 직접 작성합니다.)
+[Coding Test Study Notes (Notion)](https://innate-marquis-2aa.notion.site/2eeeec205f4e80968242cb34179786cf?source=copy_link)
 
 
 
